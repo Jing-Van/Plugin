@@ -16,6 +16,10 @@ Intersection left:
 
 1. do not be confused by 2 way left turn. 2 way left turn before intersection: 1st available left turn. Intersection right:
    turn left, be cautious picking up lane, leave enough space to the cars on the incoming road on the left
+2. flashing yellow left turn light: yield going through
+
+Intersection right on red:
+1. yield u turn, yield everyone
 
 Intersection through:
 
